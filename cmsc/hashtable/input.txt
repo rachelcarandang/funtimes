@@ -1,0 +1,30 @@
+Peter joins trusted
+Peter deposits 100
+Peter print
+Joe joins untrusted
+Joe deposits 300
+Joe print
+Peter withdraws 10
+Peter withdraws 10
+Peter print
+Joe withdraws 250
+Joe print
+Peter withdraws 100
+Peter print
+Joe withdraws 200
+Joe print
+Alice joins trusted
+Alice deposits 100
+Alice print
+Bob joins untrusted
+Bob deposits 300
+Bob print
+Alice withdraws 10
+Alice withdraws 10
+Alice print
+Bob withdraws 250
+Bob print
+Alice withdraws 100
+Alice print
+Bob withdraws 200
+Bob print

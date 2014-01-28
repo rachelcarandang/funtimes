@@ -1,0 +1,4 @@
+Alice joins 
+Bob joins
+Alice prints
+Bob prints
